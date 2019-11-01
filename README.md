@@ -1,5 +1,6 @@
 # Node Expresss Boilerplate
-============================
+
+
 ## Sobre
 Este é um projeto de exemplo utilizado como starter-pack para aplicações web com Node.js 
 
@@ -16,8 +17,8 @@ Para instalá-lo em sua máquina faça os comandos a seguir:
 ## Execução dos testes
 
 ``` bash
-   cd node-express-boilerplate
-   npm test
+  cd node-express-boilerplate
+  npm test
 ```
 
 #### Atenção
