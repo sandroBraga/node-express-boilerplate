@@ -13,6 +13,13 @@ Para instalá-lo em sua máquina faça os comandos a seguir:
   npm start
 ```
 
+## Execução dos testes
+
+``` bash
+   cd node-express-boilerplate
+   npm test
+```
+
 #### Atenção
 
 Acesse no seu navegador o endereço: http://localhost:3000
