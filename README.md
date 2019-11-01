@@ -26,7 +26,7 @@ Para instalá-lo em sua máquina faça os comandos a seguir:
 Acesse no seu navegador o endereço: http://localhost:3000
 
 ## Autor
-Sandro Oliveira BRaga
+Sandro Oliveira Braga <BR>
 Email: <sandro.schuldiner@gmail.com>
 
 ## Licença
